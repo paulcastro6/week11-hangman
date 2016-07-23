@@ -1,0 +1,1 @@
+//couldn't get it to work here so i put it all in the main.js file
